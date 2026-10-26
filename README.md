@@ -384,7 +384,7 @@ The generated explanations never influence decisions.
 
 ## Author
 
-**JShreyash Tuke**
+**Shreyash Tuke**
 
 B.E Information Technology | Artificial Intelligence | Machine Learning | Healthcare Analytics
 
